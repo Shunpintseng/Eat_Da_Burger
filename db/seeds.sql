@@ -1,2 +1,2 @@
-INSERT INTO burgers (burgerName) VALUES ('Double Cheese', false);
-INSERT INTO burgers (BurgerName) VALUES ('Big Mac'false);
+INSERT INTO burgers (name) VALUES ('Double Cheese');
+INSERT INTO burgers (name) VALUES ('Big Mac');
