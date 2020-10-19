@@ -8,6 +8,5 @@ CREATE TABLE burgers
 	id INT NOT NULL AUTO_INCREMENT,
 	name VARCHAR(255) NOT NULL,
 	devour BOOLEAN DEFAULT false,
-	PIMARY KEY (id)
+	PRIMARY KEY (id)
 );
-
