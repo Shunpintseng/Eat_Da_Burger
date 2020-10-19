@@ -1,12 +1,52 @@
-li {
-  padding: 5px;
-  margin: 5px;
-  background: #faebd7;
+nav {
+  text-align: center;
 }
+article{
+  text-align: center;
+}
+body{
+ align-content: center;
+}
+
+h1 {
+  color: darkslategray;
+}
+
+h2{
+  font-weight: bolder;
+  color:darkslategrey;
+  text-align: center;
+  padding: 10px
+}
+
+h4{
+  color:darkslategrey;
+  text-align: center;
+  padding: 10px
+}
+
+ul{
+  margin-left: 30%;
+  margin-right: 30%;  
+}
+
+
+
+li {
+  font-size: 1rem;
+  font-weight: bolder;
+  /* text-align: center; */
+  padding: 20px;
+  margin: 20px;
+  background: lightgray;
+  border-radius: 1rem ;
+}
+
 
 .label {
   font-weight: bold;
 }
+
 
 .create-update-form {
   padding: 5px;
