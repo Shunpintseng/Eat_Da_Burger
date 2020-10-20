@@ -20,7 +20,14 @@ Questions
 ## Description
     
     This is a portotype app for restaurant ordering system. In this app there are basic add and delete function. This app is created using ORM and MVC design pattern. This app also includs the use of MySQL, Node, Express,Handlebars to create the HTML pages.
-    
+    following the link to github:
+    https://github.com/Shunpintseng/Eat_Da_Burger
+    App is deployed on heroku in the following link:
+    https://glacial-lowlands-67107.herokuapp.com/
+
+    App heroku preview: public\assets\images\screen capture.JPG
+
+
 ## Installation
     
     App is deployed on heruko and no special installation is needed. To run the app on local terminal. Please install the folowing:
